@@ -37,7 +37,7 @@ namespace Lopushok1.Control
         {
             using (SqlConnection connection = new SqlConnection(Connection.String))
             {
-                if (MessageBox.Show("Хотите удалить агента?", "Удаление", MessageBoxButton.YesNo, MessageBoxImage.Warning) == MessageBoxResult.Yes)
+                if (MessageBox.Show("Хотите удалить ?", "Удаление", MessageBoxButton.YesNo, MessageBoxImage.Warning) == MessageBoxResult.Yes)
                 {
                     connection.Open();
                     SqlCommand command = new SqlCommand($@"DELETE FROM [dbo].[Product] WHERE ID = '{ID.Content}'", connection);
