@@ -1,0 +1,12 @@
+C:\Users\alexn\Desktop\Ses2\WSUniveralLib\WSUniveralLib\bin\Debug\WSUniveralLib.dll
+C:\Users\alexn\Desktop\Ses2\WSUniveralLib\WSUniveralLib\bin\Debug\WSUniveralLib.pdb
+C:\Users\alexn\Desktop\Ses2\WSUniveralLib\WSUniveralLib\obj\Debug\WSUniveralLib.csprojAssemblyReference.cache
+C:\Users\alexn\Desktop\Ses2\WSUniveralLib\WSUniveralLib\obj\Debug\WSUniveralLib.csproj.CoreCompileInputs.cache
+C:\Users\alexn\Desktop\Ses2\WSUniveralLib\WSUniveralLib\obj\Debug\WSUniveralLib.dll
+C:\Users\alexn\Desktop\Ses2\WSUniveralLib\WSUniveralLib\obj\Debug\WSUniveralLib.pdb
+C:\Users\1\Desktop\WSUniveralLib\WSUniveralLib\bin\Debug\WSUniveralLib.dll
+C:\Users\1\Desktop\WSUniveralLib\WSUniveralLib\bin\Debug\WSUniveralLib.pdb
+C:\Users\1\Desktop\WSUniveralLib\WSUniveralLib\obj\Debug\WSUniveralLib.csproj.AssemblyReference.cache
+C:\Users\1\Desktop\WSUniveralLib\WSUniveralLib\obj\Debug\WSUniveralLib.csproj.CoreCompileInputs.cache
+C:\Users\1\Desktop\WSUniveralLib\WSUniveralLib\obj\Debug\WSUniveralLib.dll
+C:\Users\1\Desktop\WSUniveralLib\WSUniveralLib\obj\Debug\WSUniveralLib.pdb
